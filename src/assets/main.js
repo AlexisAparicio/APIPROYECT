@@ -29,6 +29,7 @@ let view= `
         <h3 class="text-sm text-gray-700">
             <span aria-hidden="true" class="absolute inset-0"></span>
             ${video.snippet.title}
+            
         </h3>
         </div>
         </div>
