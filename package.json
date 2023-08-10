@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    
   },
   "keywords": [
     "javascript"
@@ -17,6 +15,8 @@
     "node-fetch": "^3.2.3",
     "xmlhttprequest": "^1.8.0"
   },
-  "type": "module"
-  
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
